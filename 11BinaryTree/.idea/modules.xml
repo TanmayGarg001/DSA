@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/0to5/0to5.iml" filepath="$PROJECT_DIR$/0to5/0to5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11to15/11to15.iml" filepath="$PROJECT_DIR$/11to15/11to15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16to20/16to20.iml" filepath="$PROJECT_DIR$/16to20/16to20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21to25/21to25.iml" filepath="$PROJECT_DIR$/21to25/21to25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26to32/26to32.iml" filepath="$PROJECT_DIR$/26to32/26to32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6to10/6to10.iml" filepath="$PROJECT_DIR$/6to10/6to10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/7BinaryTree.iml" filepath="$PROJECT_DIR$/.idea/7BinaryTree.iml" />
+    </modules>
+  </component>
+</project>

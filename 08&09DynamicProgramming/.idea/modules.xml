@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/12to15_KnapsackUnbounded/12to15_KnapsackUnbounded.iml" filepath="$PROJECT_DIR$/12to15_KnapsackUnbounded/12to15_KnapsackUnbounded.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16to21_Fibonacci/16to21_Fibonacci.iml" filepath="$PROJECT_DIR$/16to21_Fibonacci/16to21_Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1to5_Intro/1to5_Intro.iml" filepath="$PROJECT_DIR$/1to5_Intro/1to5_Intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22to30_LCS/22to30_LCS.iml" filepath="$PROJECT_DIR$/22to30_LCS/22to30_LCS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31to32_LIS/31to32_LIS.iml" filepath="$PROJECT_DIR$/31to32_LIS/31to32_LIS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33to35_MCM/33to35_MCM.iml" filepath="$PROJECT_DIR$/33to35_MCM/33to35_MCM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/5DynamicProgramming.iml" filepath="$PROJECT_DIR$/.idea/5DynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6to11_KnapsackBounded/6to11_KnapsackBounded.iml" filepath="$PROJECT_DIR$/6to11_KnapsackBounded/6to11_KnapsackBounded.iml" />
+    </modules>
+  </component>
+</project>
